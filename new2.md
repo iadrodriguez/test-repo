@@ -1,1 +1,0 @@
-This is new2 MD file.
